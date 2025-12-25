@@ -39,17 +39,6 @@ I often work alongside service owners, contributing reliability and performance 
 
 ---
 
-## 📌 What You'll Find Here
-This profile contains:
-- Reliability and load-testing playbooks
-- Small system simulations and experiments
-- Automation design patterns
-- Notes on distributed systems and infrastructure behavior
-
-These projects are intentionally generic and self-contained, but mirror the kinds of engineering problems I work on professionally.
-
----
-
 ## 🎯 Current Direction
 I’m actively deepening my skills in:
 - Site Reliability Engineering (SRE)
