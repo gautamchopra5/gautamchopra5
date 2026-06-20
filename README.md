@@ -1,50 +1,34 @@
-# Hi, I'm Gautam Chopra 👋
+# Gautam Chopra
 
-I’m a **Software Engineer focused on reliability, performance, and distributed systems**.
+**Performance & Reliability Engineer** — I find why distributed systems break under load, and drive the fixes.
 
-In my professional work, I contribute to large-scale microservices by:
-- Analyzing system behavior under load
-- Debugging distributed failures and bottlenecks
-- Improving reliability through testing, observability, and automation
+I work in quality & reliability engineering on a large-scale, event-driven SaaS platform (100K+ scale). My work lives at the intersection of **correctness, scale, and failure**: load- and capacity-testing real services, root-causing latency and throughput regressions down to the database and query layer, and turning recurring incidents into lasting reliability improvements.
 
-Most of my production work is proprietary, so this GitHub contains **clean, generic projects and experiments** that reflect how I think about engineering systems — especially their failure modes.
+## What I do
 
----
+- **Performance & capacity engineering** — design and run load/stress tests at **5K–100K+ scale**, publish capacity limits used for release decisions, and root-cause regressions (p95/p99 latency, DB connection-pool exhaustion, unbatched writes, full-table scans despite pagination).
+- **Reliability & RCA** — own a **monthly root-cause-analysis process across three product lines**, stabilize flaky CI, and convert failures into runbook-able actions.
+- **Distributed systems** — reason about failure modes across **RabbitMQ, SQS, Couchbase, OpenSearch, and PostgreSQL** — sync latency, lock/recovery, and backpressure.
+- **Observability** — Datadog logs, metrics, and traces; queue throughput and ack-rate analysis; tracking p95/p99 against thresholds as de-facto SLIs.
+- **Automation** — **100+ PRs across 20 repositories** building and maintaining test and tooling infrastructure.
 
-## 🔧 Areas I Work In
-- Distributed systems behavior & failure analysis
-- Load & performance testing
-- Reliability engineering (timeouts, retries, backpressure)
-- Automation for complex workflows
-- Infrastructure awareness (AWS, queues, services)
+A couple of things I'm proud of: driving a **~17% improvement in event-sync latency** through load testing that prompted a message-queue prioritization redesign, and being recognized as **Newcomer of the Year** in Quality Engineering Department.
 
----
+## Currently learning & building in public
 
-## 🧠 How I Approach Systems
-I usually operate at the intersection of:
-- **Correctness** – what should happen
-- **Scale** – what happens under load
-- **Failure** – what breaks first and why
-- **Recovery** – how systems stabilize again
+I'm deepening the infrastructure side of reliability — **Kubernetes, Terraform, and formal SLO / error-budget practice** — and building it in the open.
 
-I often work alongside service owners, contributing reliability and performance improvements rather than owning services end-to-end.
+> Most of my production work is proprietary, so this profile is where I build the public, hands-on version of how I think about systems.
 
----
+## Tech
 
-## 🛠️ Tech Stack
-- **Languages:** Java, TypeScript, Shell Scripting, SQL
-- **Cloud & Infra:** AWS (ECS, EC2, IAM), Queues, Load Balancers
-- **Testing & Tooling:** Gatling, Playwright, Jenkins
-- **Focus Areas:** Performance, Reliability, Automation Design
+- **Languages:** Java · TypeScript · SQL · Python · Shell
+- **Cloud & infra:** AWS (ECS, EC2, S3, IAM) · Docker · *(learning: Kubernetes, Terraform)*
+- **Reliability & performance:** Gatling · Datadog · Grafana · load & capacity testing · RCA / postmortems
+- **Testing & CI/CD:** Playwright · Karate · JUnit · Jenkins · GitHub Actions
 
----
+## Connect
 
-## 🎯 Current Direction
-I’m actively deepening my skills in:
-- Site Reliability Engineering (SRE)
-- Distributed systems internals
-- System design and scalability
-
----
-
-Thanks for stopping by!
+- **Portfolio** — *coming soon*
+- **LinkedIn** — https://www.linkedin.com/in/gautam-chopra-328a83217/
+- **Email** — gautam.chopra23@gmail.com
