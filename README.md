@@ -18,7 +18,7 @@ A couple of things I'm proud of: driving a **~17% improvement in event-sync late
 
 I'm deepening the infrastructure side of reliability — **Kubernetes, Terraform, and formal SLO / error-budget practice** — and building it in the open.
 
-> Most of my production work is proprietary, so this profile is where I build the public, hands-on version of how I think about systems.
+> Most of my production work is proprietary, so this is where I work in public: open-source contributions to testing and infra tools, plus projects of my own.
 
 ## Tech
 
