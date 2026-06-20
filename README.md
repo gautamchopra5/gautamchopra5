@@ -2,7 +2,7 @@
 
 **Performance & Reliability Engineer** — I find why distributed systems break under load, and drive the fixes.
 
-I work in quality & reliability engineering on a large-scale, event-driven SaaS platform (100K+ scale). My work lives at the intersection of **correctness, scale, and failure**: load- and capacity-testing real services, root-causing latency and throughput regressions down to the database and query layer, and turning recurring incidents into lasting reliability improvements.
+I work on performance and reliability for a high-scale event platform: load-testing services, finding why they break under load, and fixing the root cause for good.
 
 ## What I do
 
