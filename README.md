@@ -29,6 +29,5 @@ I'm deepening the infrastructure side of reliability — **Kubernetes, Terraform
 
 ## Connect
 
-- **Portfolio** — *coming soon*
 - **LinkedIn** — https://www.linkedin.com/in/gautam-chopra-328a83217/
 - **Email** — gautam.chopra23@gmail.com
